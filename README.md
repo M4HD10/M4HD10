@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M4HD10
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning python
 
 
 <!---
